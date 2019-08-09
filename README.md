@@ -1,1 +1,1 @@
-# octopus-arm
+# for studying
