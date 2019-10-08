@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/CPP.dir/laba/main.cpp.o  -o CPP 
