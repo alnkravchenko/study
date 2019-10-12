@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="laba2" targetName="laba2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3acd5d6d-e633-49a7-a61f-3f59d63ed615" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="laba2" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Problems" color="Rose" />
+    <fileColor scope="Open Files" color="Green" />
+  </component>
+  <component name="ProjectId" id="1S6YoIvee4f6MXjdBcAmXUP68rp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="laba2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="laba2" TARGET_NAME="laba2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="laba2" RUN_TARGET_NAME="laba2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3acd5d6d-e633-49a7-a61f-3f59d63ed615" name="Default Changelist" comment="" />
+      <created>1570885685481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570885685481</updated>
+      <workItem from="1570885687152" duration="3061000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="914" height="271" key="GridCell.Tab.0.bottom" timestamp="1570888769032">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="914" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1041@0.0.1920.1041" timestamp="1570888769032" />
+    <state width="914" height="271" key="GridCell.Tab.0.center" timestamp="1570888769031">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="914" height="271" key="GridCell.Tab.0.center/0.0.1920.1041@0.0.1920.1041" timestamp="1570888769031" />
+    <state width="914" height="271" key="GridCell.Tab.0.left" timestamp="1570888769031">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="914" height="271" key="GridCell.Tab.0.left/0.0.1920.1041@0.0.1920.1041" timestamp="1570888769031" />
+    <state width="914" height="271" key="GridCell.Tab.0.right" timestamp="1570888769032">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="914" height="271" key="GridCell.Tab.0.right/0.0.1920.1041@0.0.1920.1041" timestamp="1570888769032" />
+    <state x="1104" y="235" key="run.anything.popup" timestamp="1570885776097">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="1104" y="235" key="run.anything.popup/0.0.1920.1041@0.0.1920.1041" timestamp="1570885776097" />
+  </component>
+</project>
