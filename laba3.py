@@ -13,10 +13,10 @@ flag1 = False # Flag for square
 flag2 = False # Flag for circle
 
 if ((koord1 > -1 and koord1 < 1) or koord1 == -1 or koord1 == 1): # Conditions for circle x^2 + y^2 = 4
-    if (math.pow(koord1, 2) + math.pow(koord2, 2) <= 4.0):
+    if (math.pow((koord1 - 1), 2) + math.pow(koord2, 2) <= 4.0):
         flag2 = True
 elif ((koord1 > 1 and koord1 < 3) or koord1 == 3 or koord1 == 1): # Conditions for square |x| + |y| = 2
-    if (abs(koord1) + abs(koord2) <= 2.0):
+    if ((abs(koord1) - 1) + abs(koord2) <= 2.0):
         flag1 = True
 
 if (flag1 or flag2): 
