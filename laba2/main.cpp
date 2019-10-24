@@ -16,11 +16,11 @@ int main() {
     cin >> koord2;
 
     if ((koord1 > -1 and koord1 < 1) or koord1 == -1 or koord1 == 1){ // Conditions for circle x^2 + y^2 = 4
-        if (pow(koord1, 2) + pow(koord2, 2) <= 4.0) {
+        if (pow((koord1 - 1), 2) + pow(koord2, 2) <= 4.0) {
             flag2 = true;
         }
     } else if ((koord1 > 1 and koord1 < 3) or koord1 == 3 or koord1 == 1) { // Conditions for square |x| + |y| = 2
-        if (abs(koord1) + abs(koord2) <= 2.0) {
+        if ((abs(koord1) - 1) + abs(koord2) <= 2.0) {
             flag1 = true;
         }
     }
