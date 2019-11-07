@@ -6,14 +6,12 @@ print('Кравченко О.О. ІС-93 Лабораторна рoбота №4
 
 iterCount = int(input('Enter number of iterations: '))
 
-x = y = 1
+x = y = 1  # Variable initialization
 result = 0
 
-for count in range(iterCount):
-    result += x / (1 + abs(y))
-    y += x
-    x *= 0.3
+for count in range(iterCount): # Loop with number of iterations
+    result += x / (1 + abs(y)) # Our formula
+    y += x # Change y
+    x *= 0.3 # Change x
 
-print(result)
-
-
+print('Sum = '+"%.4f" %result) # Final result
