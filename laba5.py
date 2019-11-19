@@ -16,7 +16,7 @@ firstNumDividers.remove(1)  # Because first divider is always"1"
 secondNumDividers = dividers(secondNum)  # All q's dividers
 secondNumDividers.remove(1)  # Because first divider is always "1"
 
-for element in firstNumDividers:  # Loop for searching dividers of p's divider
+    for element in firstNumDividers:  # Loop for searching dividers of p's divider
     elementDividers = dividers(element)
     if not elementDividers & secondNumDividers:  # Finding common dividers
         result.append(str(element))  # Add divider into list of all dividers
