@@ -1,6 +1,6 @@
 import random
 
-print('Кравченко О.О. ІС-93 Лабораторна рoбота №6 Варіант 13')
+print('Кравченко О.О. ІС-93 Лабораторна рoбота №8 Варіант 13')
 
 originalArray = [] # Array with random numbers
 modifiedArray = [] # Result of modifying originalArray in loops
@@ -23,11 +23,10 @@ def create_matrix(capacity): # Creating matrix from the task
     matrix.append(originalArray)
     for row in range(capacity):
         if modifiedArray[0] != originalArray[-1]: # Condition from our task
-            modifiedArray.append(modifiedArray.pop(0))  #
+            modifiedArray.append(modifiedArray.pop(0))
             array = modifiedArray.copy()
             matrix.append(array)
             print(f'{row+1} changing: {array}')
-        # print(matrix[index][element], end= ' ')
 
 def output_matrix(): # Output matrix
     print('Our matrix:')
