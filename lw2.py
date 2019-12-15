@@ -99,7 +99,6 @@ if matrixUndirEntry:
 # Radius, diameter, center, tiers of graph
 
 connectivity = True
-
 for row in reachUndir:  # If there is at least 1 isolated vertex, then graph is disconnected
     if 0 in row:
         connectivity = False
@@ -250,7 +249,7 @@ for row in unilateralMatrix:  # If there is no path between verteces at least in
 if connectivity2:
     typeConnect = 'an unilaterally connected'
 
-# Condition for weakly conndected graph
+# Condition for weakly connected graph
 
 # Create adjacency matrix of undirected graph with verteces from data2.txt
 matrixAdjUndir2 = [[0] * dataDir[0]
