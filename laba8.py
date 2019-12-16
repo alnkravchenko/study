@@ -22,7 +22,11 @@ def create_matrix(capacity):  # Creating matrix from the task
     modifiedArray = originalArray.copy()
     matrix.append(originalArray)
     for row in range(capacity):
+<<<<<<< HEAD
         if modifiedArray[0] != originalArray[-1]:  # Condition from our task
+=======
+        if modifiedArray[0] != originalArray[-1]: # Condition from our task
+>>>>>>> 78d40b330919654114890ccea5bf5184219fc744
             modifiedArray.append(modifiedArray.pop(0))
             array = modifiedArray.copy()
             matrix.append(array)
