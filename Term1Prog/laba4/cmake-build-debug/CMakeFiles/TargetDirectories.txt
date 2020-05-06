@@ -1,3 +1,0 @@
-/home/alena/Programming/CPP/laba4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/alena/Programming/CPP/laba4/cmake-build-debug/CMakeFiles/laba4.dir
-/home/alena/Programming/CPP/laba4/cmake-build-debug/CMakeFiles/edit_cache.dir
